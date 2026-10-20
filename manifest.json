@@ -1,0 +1,27 @@
+{
+  "manifest_version": "1.0",
+  "org": "simonw",
+  "repo": "llm-tools-datasette",
+  "versions": [
+    {
+      "commit": "3223970dd1d82e30c72f7fbcf692d63aa34b0cc0",
+      "parsed_at": "2026-10-20T10:12:22.163102+00:00",
+      "tag": "0.1.1",
+      "filetree": "filetree/3223970dd1d82e30c72f7fbcf692d63aa34b0cc0.nq.gz",
+      "blobs": [
+        "blob/1a0816b204c92867a0b2ce71d6b72096c4247113.nq.gz",
+        "blob/d7b2eacc7d31a30c2e87874d1059e359a68fa500.nq.gz",
+        "blob/4ba6e475df1d0706dfb2df2a859ecaaa6244ef67.nq.gz",
+        "blob/ed238f90a640dfb484bece035dcaa0462628fd38.nq.gz",
+        "blob/ab2a75886990f5f2829a527280b9031361e0fcfb.nq.gz",
+        "blob/ee37c6eec4b9a881b95a996aea2840d1656ca986.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz",
+        "blob/d6decb0e75d7773b2568c58d69ca76d1a7e5fd22.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz"
+}
