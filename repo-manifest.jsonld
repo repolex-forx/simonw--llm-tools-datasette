@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/simonw/llm-tools-datasette/commit/3223970dd1d82e30c72f7fbcf692d63aa34b0cc0",
       "git:hexsha": "3223970dd1d82e30c72f7fbcf692d63aa34b0cc0",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.1.1"
     },
     {
